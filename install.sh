@@ -7,7 +7,7 @@ apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 80F70E11F0F0D5F10CB
 echo "deb http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu trusty main" >> /etc/apt/sources.list
 
 # install ruby 2.1
-DEBIAN_FRONTEND=noninteractive apt-get update && apt-get install -y ruby2.1
+DEBIAN_FRONTEND=noninteractive apt-get update && apt-get install -y ruby2.2 ruby2.2-dev
 update-locale LANG=C.UTF-8 LC_MESSAGES=POSIX \
  && locale-gen en_US.UTF-8 \
  && dpkg-reconfigure locales \
