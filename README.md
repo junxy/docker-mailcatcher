@@ -1,10 +1,12 @@
 [![Docker Repository on Quay.io](https://quay.io/repository/junxy/docker-mailcatcher/status "Docker Repository on Quay.io")](https://quay.io/repository/junxy/docker-mailcatcher)
 
+[![](https://badge.imagelayers.io/junxy/docker-mailcatcher:latest.svg)](https://imagelayers.io/?images=junxy/docker-mailcatcher:latest 'Get your own badge on imagelayers.io')
+
 # docker-mailcatcher
 
 Dockerized http://mailcatcher.me/ forked by https://github.com/schickling/dockerfiles/tree/master/mailcatcher
 
-Extra small mailcatcher image (13 MB)
+Extra small mailcatcher image 
 
 ## Usage
 
