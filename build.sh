@@ -1,3 +1,3 @@
 # !/bin/bash
 
-docker build -t junxy/docker-mailcatcher .
+docker build -t local/junxy/docker-mailcatcher .
