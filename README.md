@@ -4,6 +4,7 @@
 
 Dockerized http://mailcatcher.me/ forked by https://github.com/schickling/dockerfiles/tree/master/mailcatcher
 
+Extra small mailcatcher image (13 MB)
 
 ## Usage
 
