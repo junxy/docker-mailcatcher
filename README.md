@@ -1,5 +1,4 @@
 [![Docker Repository on Quay.io](https://quay.io/repository/junxy/docker-mailcatcher/status "Docker Repository on Quay.io")](https://quay.io/repository/junxy/docker-mailcatcher)
-
 [![](https://badge.imagelayers.io/junxy/docker-mailcatcher:latest.svg)](https://imagelayers.io/?images=junxy/docker-mailcatcher:latest 'Get your own badge on imagelayers.io')
 
 # docker-mailcatcher
